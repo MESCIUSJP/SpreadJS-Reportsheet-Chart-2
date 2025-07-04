@@ -1,0 +1,31 @@
+{
+    "score":[
+    {
+      "id": 2025001001,
+      "takerId": 1,
+      "examId": 2025001,
+      "totalScore": 360,
+      "totalAverage": 354,
+      "totalDeviationValue": 60,
+      "totalRank": 14
+    },
+    {
+      "id": 2025001002,
+      "takerId": 2,
+      "examId": 2025001,
+      "totalScore": 367,
+      "totalAverage": 354,
+      "totalDeviationValue": 62,
+      "totalRank": 10
+    },
+    {
+      "id": 2025001003,
+      "takerId": 3,
+      "examId": 2025001,
+      "totalScore": 410,
+      "totalAverage": 354,
+      "totalDeviationValue": 78,
+      "totalRank": 3
+    }
+  ]
+}

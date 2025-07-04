@@ -1,0 +1,124 @@
+{
+    "scoreDetail":[
+    {
+      "id": 2025001001,
+      "subject": "国語",
+      "score": 94,
+      "average": 70,
+      "deviationValue": 60,
+      "rank": 5
+    },
+    {
+      "id": 2025001001,
+      "subject": "数学",
+      "score": 32,
+      "average": 66,
+      "deviationValue": 40,
+      "rank": 35
+    },
+    {
+      "id": 2025001001,
+      "subject": "英語",
+      "score": 76,
+      "average": 72,
+      "deviationValue": 52,
+      "rank": 18
+    },
+    {
+      "id": 2025001001,
+      "subject": "社会",
+      "score": 69,
+      "average": 75,
+      "deviationValue": 49,
+      "rank": 22
+    },
+    {
+      "id": 2025001001,
+      "subject": "理科",
+      "score": 89,
+      "average": 71,
+      "deviationValue": 58,
+      "rank": 8
+    },
+    {
+      "id": 2025001002,
+      "subject": "国語",
+      "score": 51,
+      "average": 70,
+      "deviationValue": 40,
+      "rank": 39
+    },
+    {
+      "id": 2025001002,
+      "subject": "数学",
+      "score": 94,
+      "average": 66,
+      "deviationValue": 64,
+      "rank": 6
+    },
+    {
+      "id": 2025001002,
+      "subject": "英語",
+      "score": 67,
+      "average": 72,
+      "deviationValue": 50,
+      "rank": 18
+    },
+    {
+      "id": 2025001002,
+      "subject": "社会",
+      "score": 70,
+      "average": 75,
+      "deviationValue": 49,
+      "rank": 25
+    },
+    {
+      "id": 2025001002,
+      "subject": "理科",
+      "score": 85,
+      "average": 71,
+      "deviationValue": 57,
+      "rank": 12
+    },
+    {
+      "id": 2025001003,
+      "subject": "国語",
+      "score": 77,
+      "average": 70,
+      "deviationValue": 53,
+      "rank": 3
+    },
+    {
+      "id": 2025001003,
+      "subject": "数学",
+      "score": 95,
+      "average": 66,
+      "deviationValue": 64,
+      "rank": 2
+    },
+    {
+      "id": 2025001003,
+      "subject": "英語",
+      "score": 54,
+      "average": 72,
+      "deviationValue": 41,
+      "rank": 30
+    },
+    {
+      "id": 2025001003,
+      "subject": "社会",
+      "score": 86,
+      "average": 75,
+      "deviationValue": 56,
+      "rank": 3
+    },
+    {
+      "id": 2025001003,
+      "subject": "理科",
+      "score": 98,
+      "average": 71,
+      "deviationValue": 63,
+      "rank": 1
+    }
+  ]
+}
